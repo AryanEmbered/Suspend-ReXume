@@ -1,3 +1,4 @@
+If you find this useful, be sure to click that star icon on the top left.
 official discord: https://discord.gg/cJ4KdG78DJ
 
 This application allows you to pause games or other applications and store them into one of 8 slots.
