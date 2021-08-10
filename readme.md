@@ -1,3 +1,5 @@
+official discord: https://discord.gg/cJ4KdG78DJ
+
 This application allows you to pause games or other applications and store them into one of 8 slots.
 It can be used to suspend a video render for example.
 
